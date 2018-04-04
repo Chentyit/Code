@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\program\c++\算法竞赛\ip地址匹配（2018.1.29）\project1\project1\源.cpp(9): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+f:\program\c++\算法竞赛\ip地址匹配（2018.1.29）\project1\project1\源.cpp(10): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\IP地址匹配（2018.1.29）\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\IP地址匹配（2018.1.29）\Project1\Debug\Project1.pdb (Partial PDB)

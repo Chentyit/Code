@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\programbook\c++\算法竞赛\古堡算式（2018.3.22）\project1\project1\源.cpp(28): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\Programbook\C++\算法竞赛\古堡算式（2018.3.22）\Project1\x64\Debug\Project1.exe

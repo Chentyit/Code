@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\program\c++\算法竞赛\数列特征（2018.3.6）\project1\project1\源.cpp(5): warning C4305: “初始化”: 从“__int64”到“int”截断
+f:\program\c++\算法竞赛\数列特征（2018.3.6）\project1\project1\源.cpp(5): warning C4309: “初始化”: 截断常量值
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\数列特征（2018.3.6）\Project1\Debug\Project1.exe

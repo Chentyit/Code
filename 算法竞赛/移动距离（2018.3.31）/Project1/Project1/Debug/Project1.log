@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\program\c++\算法竞赛\移动距离（2018.3.31）\project1\project1\源.cpp(48): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program\c++\算法竞赛\移动距离（2018.3.31）\project1\project1\源.cpp(49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\移动距离（2018.3.31）\Project1\Debug\Project1.exe

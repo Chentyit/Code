@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\program\c++\算法竞赛\刽子手（例题）（2018.1.27）\project1\project1\源.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+f:\program\c++\算法竞赛\刽子手（例题）（2018.1.27）\project1\project1\源.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\刽子手（例题）（2018.1.27）\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\刽子手（例题）（2018.1.27）\Project1\Debug\Project1.pdb (Partial PDB)

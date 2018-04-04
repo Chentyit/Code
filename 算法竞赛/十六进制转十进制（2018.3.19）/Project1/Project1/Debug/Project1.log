@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\program\c++\算法竞赛\十六进制转十进制（2018.3.19）\project1\project1\源.cpp(17): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+f:\program\c++\算法竞赛\十六进制转十进制（2018.3.19）\project1\project1\源.cpp(20): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+f:\program\c++\算法竞赛\十六进制转十进制（2018.3.19）\project1\project1\源.cpp(23): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+  Project1.vcxproj -> F:\Program\C++\算法竞赛\十六进制转十进制（2018.3.19）\Project1\Debug\Project1.exe

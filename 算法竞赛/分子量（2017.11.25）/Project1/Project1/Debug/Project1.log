@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\programbook\c++\算法竞赛\分子量（2017.11.25）\project1\project1\源.cpp(33): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\programbook\c++\算法竞赛\分子量（2017.11.25）\project1\project1\源.cpp(36): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\programbook\c++\算法竞赛\分子量（2017.11.25）\project1\project1\源.cpp(39): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\programbook\c++\算法竞赛\分子量（2017.11.25）\project1\project1\源.cpp(42): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Programbook\C++\算法竞赛\分子量（2017.11.25）\Project1\Debug\Project1.exe
